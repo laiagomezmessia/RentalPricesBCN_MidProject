@@ -1,0 +1,1 @@
+# RentalPricesBCN_MidProject
