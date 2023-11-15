@@ -50,7 +50,7 @@ Utilize various machine learning models and compare validations for predictive a
 - Statistical methods, including t-tests, used for hypothesis testing.
 
 ## Contributors
-- [Laia Gómez Messía]
+- [[Laia Gómez Messía](https://github.com/laiagomezmessia)]
 
 ## Conclusion
 This project aims to provide a comprehensive analysis of the rental market in Barcelona, utilizing a combination of statistical methods, machine learning models, and visualizations. The findings will contribute to a deeper understanding of housing trends and patterns in the city over the past decade.
