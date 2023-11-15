@@ -2607,92 +2607,92 @@ year,quarter,district_code,district_name,neighborhood_code,neighborhood_name,eur
 2023,2,10,Sant Martí,71,Provençals del Poblenou,1204.2,16.7,82
 2023,2,10,Sant Martí,72,Sant Martí de Provençals,960.9,13.2,95
 2023,2,10,Sant Martí,73,la Verneda i la Pau,991.1,14.5,167
-2014,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,597.3228571428571,9.779642857142857,1
-2014,1,7,Horta-Guinardó,42,la Clota,581.1155000000001,9.041,1
-2014,1,9,Sant Andreu,58,Baró de Viver,538.1388000000001,8.394400000000001,5
-2014,2,3,Sants-Montjuïc,12,la Marina del Prat Vermell,597.3228571428571,9.779642857142857,1
-2014,2,7,Horta-Guinardó,42,la Clota,581.1155000000001,9.041,2
-2014,3,7,Horta-Guinardó,42,la Clota,581.1155000000001,9.041,3
-2014,3,9,Sant Andreu,58,Baró de Viver,538.1388000000001,8.394400000000001,3
-2014,4,3,Sants-Montjuïc,12,la Marina del Prat Vermell,597.3228571428571,9.779642857142857,2
-2014,4,7,Horta-Guinardó,42,la Clota,581.1155000000001,9.041,2
-2014,4,9,Sant Andreu,58,Baró de Viver,538.1388000000001,8.394400000000001,4
-2015,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,611.302,10.202333333333335,2
-2015,1,7,Horta-Guinardó,42,la Clota,595.0114634146341,9.773170731707317,3
-2015,2,7,Horta-Guinardó,42,la Clota,595.0114634146341,9.773170731707317,2
-2015,3,3,Sants-Montjuïc,12,la Marina del Prat Vermell,611.302,10.202333333333335,3
-2015,4,7,Horta-Guinardó,42,la Clota,595.0114634146341,9.773170731707317,1
-2015,4,9,Sant Andreu,58,Baró de Viver,551.3022222222223,8.835555555555556,4
-2016,1,7,Horta-Guinardó,42,la Clota,649.61,10.67025,4
-2016,2,3,Sants-Montjuïc,12,la Marina del Prat Vermell,662.4172413793103,11.238620689655173,2
-2016,2,7,Horta-Guinardó,42,la Clota,649.61,10.67025,4
-2016,2,9,Sant Andreu,58,Baró de Viver,586.1646153846153,9.481153846153846,2
-2016,3,3,Sants-Montjuïc,12,la Marina del Prat Vermell,662.4172413793103,11.238620689655173,1
-2016,3,7,Horta-Guinardó,42,la Clota,649.61,10.67025,3
-2016,4,3,Sants-Montjuïc,12,la Marina del Prat Vermell,662.4172413793103,11.238620689655173,0
-2016,4,7,Horta-Guinardó,42,la Clota,649.61,10.67025,4
-2016,4,9,Sant Andreu,58,Baró de Viver,586.1646153846153,9.481153846153846,2
-2017,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,760.3475000000001,12.570000000000002,1
-2017,1,9,Sant Andreu,58,Baró de Viver,671.3575000000001,10.765,4
-2017,2,7,Horta-Guinardó,42,la Clota,718.3682500000001,11.83175,3
-2017,2,9,Sant Andreu,58,Baró de Viver,671.3575000000001,10.765,3
-2017,3,3,Sants-Montjuïc,12,la Marina del Prat Vermell,760.3475000000001,12.570000000000002,1
-2017,3,7,Horta-Guinardó,42,la Clota,718.3682500000001,11.83175,2
-2017,3,9,Sant Andreu,58,Baró de Viver,671.3575000000001,10.765,2
-2017,4,3,Sants-Montjuïc,12,la Marina del Prat Vermell,760.3475000000001,12.570000000000002,2
-2017,4,7,Horta-Guinardó,42,la Clota,718.3682500000001,11.83175,3
-2017,4,9,Sant Andreu,58,Baró de Viver,671.3575000000001,10.765,2
-2018,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,799.8071428571428,12.663214285714288,0
-2018,1,7,Horta-Guinardó,42,la Clota,750.91775,11.717250000000002,5
-2018,1,9,Sant Andreu,58,Baró de Viver,731.1952,11.279200000000001,5
-2018,2,3,Sants-Montjuïc,12,la Marina del Prat Vermell,799.8071428571428,12.663214285714288,2
-2018,2,7,Horta-Guinardó,42,la Clota,750.91775,11.717250000000002,2
-2018,2,9,Sant Andreu,58,Baró de Viver,731.1952,11.279200000000001,3
-2018,3,3,Sants-Montjuïc,12,la Marina del Prat Vermell,799.8071428571428,12.663214285714288,0
-2018,3,7,Horta-Guinardó,42,la Clota,750.91775,11.717250000000002,2
-2018,3,9,Sant Andreu,58,Baró de Viver,731.1952,11.279200000000001,5
-2018,4,3,Sants-Montjuïc,12,la Marina del Prat Vermell,799.8071428571428,12.663214285714288,1
-2018,4,7,Horta-Guinardó,42,la Clota,750.91775,11.717250000000002,5
-2019,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,823.6586206896551,12.972413793103449,0
-2019,1,7,Horta-Guinardó,42,la Clota,796.39,12.5625,3
-2019,1,9,Sant Andreu,58,Baró de Viver,759.3250000000002,11.708333333333334,1
-2019,2,3,Sants-Montjuïc,12,la Marina del Prat Vermell,823.6586206896551,12.972413793103449,2
-2019,2,7,Horta-Guinardó,42,la Clota,796.39,12.5625,2
-2019,2,9,Sant Andreu,58,Baró de Viver,759.3250000000002,11.708333333333334,1
-2019,3,3,Sants-Montjuïc,12,la Marina del Prat Vermell,823.6586206896551,12.972413793103449,5
-2019,3,7,Horta-Guinardó,42,la Clota,796.39,12.5625,4
-2019,3,9,Sant Andreu,58,Baró de Viver,759.3250000000002,11.708333333333334,4
-2019,4,7,Horta-Guinardó,42,la Clota,796.39,12.5625,2
-2019,4,9,Sant Andreu,58,Baró de Viver,759.3250000000002,11.708333333333334,3
-2020,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,843.1392857142857,13.267857142857142,4
-2020,1,7,Horta-Guinardó,42,la Clota,800.3,12.4375,2
-2020,2,3,Sants-Montjuïc,12,la Marina del Prat Vermell,843.1392857142857,13.267857142857142,0
-2020,2,7,Horta-Guinardó,42,la Clota,800.3,12.4375,0
-2020,2,9,Sant Andreu,58,Baró de Viver,767.068,11.972000000000001,1
-2020,3,3,Sants-Montjuïc,12,la Marina del Prat Vermell,843.1392857142857,13.267857142857142,0
-2020,3,7,Horta-Guinardó,42,la Clota,800.3,12.4375,3
-2020,3,9,Sant Andreu,58,Baró de Viver,767.068,11.972000000000001,4
-2020,4,3,Sants-Montjuïc,12,la Marina del Prat Vermell,843.1392857142857,13.267857142857142,1
-2020,4,7,Horta-Guinardó,42,la Clota,800.3,12.4375,4
-2020,4,9,Sant Andreu,58,Baró de Viver,767.068,11.972000000000001,2
-2021,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,798.9321428571428,12.678571428571429,1
-2021,1,7,Horta-Guinardó,42,la Clota,765.0075,11.9875,1
-2021,1,9,Sant Andreu,58,Baró de Viver,721.196153846154,11.153846153846152,4
-2021,2,3,Sants-Montjuïc,12,la Marina del Prat Vermell,798.9321428571428,12.678571428571429,4
-2021,2,7,Horta-Guinardó,42,la Clota,765.0075,11.9875,4
-2021,3,3,Sants-Montjuïc,12,la Marina del Prat Vermell,798.9321428571428,12.678571428571429,1
-2021,3,7,Horta-Guinardó,42,la Clota,765.0075,11.9875,0
-2021,3,9,Sant Andreu,58,Baró de Viver,721.196153846154,11.153846153846152,2
-2021,4,3,Sants-Montjuïc,12,la Marina del Prat Vermell,798.9321428571428,12.678571428571429,1
-2021,4,7,Horta-Guinardó,42,la Clota,765.0075,11.9875,2
-2022,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,922.9652173913042,13.1,1
-2022,1,7,Horta-Guinardó,42,la Clota,802.1966666666667,12.7,2
-2022,1,9,Sant Andreu,58,Baró de Viver,779.5611111111111,11.983333333333334,2
-2022,2,7,Horta-Guinardó,42,la Clota,802.1966666666667,12.7,2
-2022,2,9,Sant Andreu,58,Baró de Viver,779.5611111111111,11.983333333333334,1
-2022,3,7,Horta-Guinardó,42,la Clota,802.1966666666667,12.7,0
-2022,3,9,Sant Andreu,58,Baró de Viver,779.5611111111111,11.983333333333334,3
-2023,1,7,Horta-Guinardó,42,la Clota,893.9549999999999,14.080000000000002,1
-2023,1,9,Sant Andreu,58,Baró de Viver,831.3249999999999,12.933333333333332,1
-2023,2,7,Horta-Guinardó,42,la Clota,893.9549999999999,14.080000000000002,5
-2023,2,9,Sant Andreu,58,Baró de Viver,831.3249999999999,12.933333333333332,0
+2014,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,603.51,10.01,1
+2014,1,7,Horta-Guinardó,42,la Clota,565.385,9.114999999999998,1
+2014,1,9,Sant Andreu,58,Baró de Viver,231.4,4.03,5
+2014,2,3,Sants-Montjuïc,12,la Marina del Prat Vermell,603.51,10.01,1
+2014,2,7,Horta-Guinardó,42,la Clota,565.385,9.114999999999998,2
+2014,3,7,Horta-Guinardó,42,la Clota,565.385,9.114999999999998,3
+2014,3,9,Sant Andreu,58,Baró de Viver,231.4,4.03,3
+2014,4,3,Sants-Montjuïc,12,la Marina del Prat Vermell,603.51,10.01,2
+2014,4,7,Horta-Guinardó,42,la Clota,565.385,9.114999999999998,2
+2014,4,9,Sant Andreu,58,Baró de Viver,231.4,4.03,4
+2015,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,396.21500000000003,6.73,2
+2015,1,7,Horta-Guinardó,42,la Clota,368.0,8.0,3
+2015,2,7,Horta-Guinardó,42,la Clota,368.0,8.0,2
+2015,3,3,Sants-Montjuïc,12,la Marina del Prat Vermell,396.21500000000003,6.73,3
+2015,4,7,Horta-Guinardó,42,la Clota,368.0,8.0,1
+2015,4,9,Sant Andreu,58,Baró de Viver,284.58,4.886666666666667,4
+2016,1,7,Horta-Guinardó,42,la Clota,644.285,10.825,4
+2016,2,3,Sants-Montjuïc,12,la Marina del Prat Vermell,360.88,6.96,2
+2016,2,7,Horta-Guinardó,42,la Clota,644.285,10.825,4
+2016,2,9,Sant Andreu,58,Baró de Viver,199.39499999999998,3.515,2
+2016,3,3,Sants-Montjuïc,12,la Marina del Prat Vermell,360.88,6.96,1
+2016,3,7,Horta-Guinardó,42,la Clota,644.285,10.825,3
+2016,4,3,Sants-Montjuïc,12,la Marina del Prat Vermell,360.88,6.96,0
+2016,4,7,Horta-Guinardó,42,la Clota,644.285,10.825,4
+2016,4,9,Sant Andreu,58,Baró de Viver,199.39499999999998,3.515,2
+2017,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,763.515,12.935,1
+2017,1,9,Sant Andreu,58,Baró de Viver,702.3199999999999,11.145,4
+2017,2,7,Horta-Guinardó,42,la Clota,711.78,11.934999999999999,3
+2017,2,9,Sant Andreu,58,Baró de Viver,702.3199999999999,11.145,3
+2017,3,3,Sants-Montjuïc,12,la Marina del Prat Vermell,763.515,12.935,1
+2017,3,7,Horta-Guinardó,42,la Clota,711.78,11.934999999999999,2
+2017,3,9,Sant Andreu,58,Baró de Viver,702.3199999999999,11.145,2
+2017,4,3,Sants-Montjuïc,12,la Marina del Prat Vermell,763.515,12.935,2
+2017,4,7,Horta-Guinardó,42,la Clota,711.78,11.934999999999999,3
+2017,4,9,Sant Andreu,58,Baró de Viver,702.3199999999999,11.145,2
+2018,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,806.44,12.84,0
+2018,1,7,Horta-Guinardó,42,la Clota,746.77,11.825,5
+2018,1,9,Sant Andreu,58,Baró de Viver,673.69,7.6,5
+2018,2,3,Sants-Montjuïc,12,la Marina del Prat Vermell,806.44,12.84,2
+2018,2,7,Horta-Guinardó,42,la Clota,746.77,11.825,2
+2018,2,9,Sant Andreu,58,Baró de Viver,673.69,7.6,3
+2018,3,3,Sants-Montjuïc,12,la Marina del Prat Vermell,806.44,12.84,0
+2018,3,7,Horta-Guinardó,42,la Clota,746.77,11.825,2
+2018,3,9,Sant Andreu,58,Baró de Viver,673.69,7.6,5
+2018,4,3,Sants-Montjuïc,12,la Marina del Prat Vermell,806.44,12.84,1
+2018,4,7,Horta-Guinardó,42,la Clota,746.77,11.825,5
+2019,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,350.5,7.1,0
+2019,1,7,Horta-Guinardó,42,la Clota,790.5,12.8,3
+2019,1,9,Sant Andreu,58,Baró de Viver,802.95,12.25,1
+2019,2,3,Sants-Montjuïc,12,la Marina del Prat Vermell,350.5,7.1,2
+2019,2,7,Horta-Guinardó,42,la Clota,790.5,12.8,2
+2019,2,9,Sant Andreu,58,Baró de Viver,802.95,12.25,1
+2019,3,3,Sants-Montjuïc,12,la Marina del Prat Vermell,350.5,7.1,5
+2019,3,7,Horta-Guinardó,42,la Clota,790.5,12.8,4
+2019,3,9,Sant Andreu,58,Baró de Viver,802.95,12.25,4
+2019,4,7,Horta-Guinardó,42,la Clota,790.5,12.8,2
+2019,4,9,Sant Andreu,58,Baró de Viver,802.95,12.25,3
+2020,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,849.9,13.5,4
+2020,1,7,Horta-Guinardó,42,la Clota,789.7,12.5,2
+2020,2,3,Sants-Montjuïc,12,la Marina del Prat Vermell,849.9,13.5,0
+2020,2,7,Horta-Guinardó,42,la Clota,789.7,12.5,0
+2020,2,9,Sant Andreu,58,Baró de Viver,584.1,7.9,1
+2020,3,3,Sants-Montjuïc,12,la Marina del Prat Vermell,849.9,13.5,0
+2020,3,7,Horta-Guinardó,42,la Clota,789.7,12.5,3
+2020,3,9,Sant Andreu,58,Baró de Viver,584.1,7.9,4
+2020,4,3,Sants-Montjuïc,12,la Marina del Prat Vermell,849.9,13.5,1
+2020,4,7,Horta-Guinardó,42,la Clota,789.7,12.5,4
+2020,4,9,Sant Andreu,58,Baró de Viver,584.1,7.9,2
+2021,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,805.25,13.0,1
+2021,1,7,Horta-Guinardó,42,la Clota,756.3,12.1,1
+2021,1,9,Sant Andreu,58,Baró de Viver,532.1,7.949999999999999,4
+2021,2,3,Sants-Montjuïc,12,la Marina del Prat Vermell,805.25,13.0,4
+2021,2,7,Horta-Guinardó,42,la Clota,756.3,12.1,4
+2021,3,3,Sants-Montjuïc,12,la Marina del Prat Vermell,805.25,13.0,1
+2021,3,7,Horta-Guinardó,42,la Clota,756.3,12.1,0
+2021,3,9,Sant Andreu,58,Baró de Viver,532.1,7.949999999999999,2
+2021,4,3,Sants-Montjuïc,12,la Marina del Prat Vermell,805.25,13.0,1
+2021,4,7,Horta-Guinardó,42,la Clota,756.3,12.1,2
+2022,1,3,Sants-Montjuïc,12,la Marina del Prat Vermell,1393.95,8.85,1
+2022,1,7,Horta-Guinardó,42,la Clota,805.85,12.850000000000001,2
+2022,1,9,Sant Andreu,58,Baró de Viver,792.0,12.2,2
+2022,2,7,Horta-Guinardó,42,la Clota,805.85,12.850000000000001,2
+2022,2,9,Sant Andreu,58,Baró de Viver,792.0,12.2,1
+2022,3,7,Horta-Guinardó,42,la Clota,805.85,12.850000000000001,0
+2022,3,9,Sant Andreu,58,Baró de Viver,792.0,12.2,3
+2023,1,7,Horta-Guinardó,42,la Clota,887.65,14.350000000000001,1
+2023,1,9,Sant Andreu,58,Baró de Viver,876.45,13.4,1
+2023,2,7,Horta-Guinardó,42,la Clota,887.65,14.350000000000001,5
+2023,2,9,Sant Andreu,58,Baró de Viver,876.45,13.4,0
