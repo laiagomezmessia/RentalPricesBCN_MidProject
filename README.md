@@ -19,7 +19,7 @@ This project focuses on analyzing the trends in rental prices in Barcelona over 
 
 
 ## Screenshot
-![Screenshot](ScreenshotAverageRent.png)
+![Screenshot](ScreenshotAverageRent2.png)
 
 
 ## Data Sources
@@ -64,7 +64,7 @@ Utilize various machine learning models and compare validations for predictive a
 The project development utilized the following technologies:
 - Jupyter notebook for data analysis and model building.
 - SQL Workbench for database interaction.
-- Tableau for data visualization.
+- [Tableau for data visualization](https://public.tableau.com/app/profile/laia.g.mez.mess.a/viz/RentalpricesinBarcelona/Dashboard2?publish=yes)
 
 
 ### Python Libraries Used
@@ -82,5 +82,5 @@ The project development utilized the following technologies:
 This project aims to provide a comprehensive analysis of the rental market in Barcelona, utilizing a combination of statistical methods, machine learning models, and visualizations. The findings will contribute to a deeper understanding of housing trends and patterns in the city over the past decade.
 
 ## Contributors
-- [[Laia Gómez Messía](https://github.com/laiagomezmessia)]
+- [Laia Gómez Messía](https://github.com/laiagomezmessia)
 
