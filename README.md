@@ -53,7 +53,7 @@ The project utilizes data from the Barcelona City Council's open data portal:
 
 ### Seasonal Analysis:
 - Use statistical methods to identify seasonal patterns in rental prices.
-- Examine specific months for consistent increases or decreases in prices and contracts.
+- Examine specific quarters for consistent increases or decreases in prices and contracts.
 
 
 ## Machine Learning
